@@ -1,0 +1,11 @@
+envVars:
+  - key: TWILIO_ACCOUNT_SID
+    value: your_sid_here
+  - key: TWILIO_AUTH_TOKEN
+    value: your_token_here
+  - key: TWILIO_WHATSAPP_NUMBER
+    value: whatsapp:+14155238886
+  - key: TO_WHATSAPP_NUMBER
+    value: whatsapp:+91xxxxxxxxxx
+  - key: MAILBOXLAYER_API_KEY
+    value: your_mailboxlayer_key_here
